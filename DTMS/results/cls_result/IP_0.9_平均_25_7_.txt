@@ -1,0 +1,5 @@
+54.71+0.0 Overall accuracy (%)
+31.27+0.0 Average accuracy (%)
+45.3+0.0 Kappa accuracy (%)
+[  0.     7.32   0.     0.    55.86  95.13   0.   100.     0.    46.63
+  95.43   0.     0.    99.91   0.     0.  ] Each accuracy (%)
